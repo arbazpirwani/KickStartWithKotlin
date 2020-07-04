@@ -1,3 +1,5 @@
+package kotlin
+
 fun main() {
     val name = "Arbaz"
 
@@ -27,7 +29,7 @@ fun String.charAt(): Char {
     return this[0]
 }
 
-/*infix fun String.minus(s: String): String {
+/*infix fun String.kotlin.minus(s: String): String {
     return "$s $this"
 }*/
 operator fun String.minus(s: String): String {

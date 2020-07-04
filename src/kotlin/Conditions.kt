@@ -1,3 +1,5 @@
+package kotlin
+
 fun checkTemperature(temp: Int) {
 
 

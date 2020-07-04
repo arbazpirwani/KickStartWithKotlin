@@ -1,3 +1,5 @@
+package kotlin
+
 fun main() {
     val a = 23
     val b = 123L
@@ -6,8 +8,8 @@ fun main() {
 
     println("$a $b $c $d")
 
-    val e:Int
+    val e: Int
     e = a
-    
+
     println(e)
 }

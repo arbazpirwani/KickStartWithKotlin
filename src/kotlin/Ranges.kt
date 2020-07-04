@@ -1,3 +1,5 @@
+package kotlin
+
 fun ranges() {
 
     val a = 1.rangeTo(10)
@@ -10,7 +12,7 @@ fun ranges() {
 
     println()
 
-    for (i in 10 downTo  1) print("$i\t")
+    for (i in 10 downTo 1) print("$i\t")
 
     println()
 

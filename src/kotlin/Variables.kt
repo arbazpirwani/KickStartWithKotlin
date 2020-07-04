@@ -1,3 +1,5 @@
+package kotlin
+
 fun variable() {
 
     val a: Int = 23
@@ -8,11 +10,10 @@ fun variable() {
     println("$a $b $c $d")
 //    println("" + a + " " + b + " " + c + " " + d)
 
-    val e:Int
+    val e: Int
     e = a
-    
-    println(e)
 
+    println(e)
 
 
 }

@@ -1,3 +1,5 @@
+package kotlin
+
 fun main() {
 
     var isContinue = true
