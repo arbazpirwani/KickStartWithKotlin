@@ -1,4 +1,4 @@
-package kotlin
+package kick
 
 fun checkTemperature(temp: Int) {
 
